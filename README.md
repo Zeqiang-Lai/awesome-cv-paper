@@ -27,13 +27,61 @@
 
 - https://stanford.edu/~shervine/blog/evolution-image-classification-explained
 
+
+
 ## Object Detection
+
+- [2014] **R-CNN** : [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
+- [2015] **Fast R-CNN** : [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+- [2016] **Faster R-CNN** : [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
+
+- [2015] **YOLO** : [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+
+### Resources
+
+- https://machinelearningmastery.com/object-recognition-with-deep-learning/
+- https://zhuanlan.zhihu.com/p/32404424
+- https://blog.csdn.net/v_JULY_v/article/details/80170182
 
 
 
 ## Object Segmentation
 
-Semantic Segmentation: 
+> Semantic Segmentation: 一个类别的都是一类
+> Instance Segmentation: 一个类别的不同物体不是一类
 
-Instance Segmentation: 
+- [] **FCN** : 
+- [] **DeepLab** :
+- [] **SegNet** :
+- [] **PSPNet**
+- [] **Mask R-CNN** : 
+- [] **U-Net** :
+- [] **FastFCN** :
+- [] **Gated-SCNN** :
+
+### Resources
+
+- https://blog.csdn.net/qq_36492210/article/details/89875708
+
+
+
+## GAN
+
+### Basic
+
+- [2014] [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+- [2015] [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+- [2016] [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+- [2014] [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+- [2018] [The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://arxiv.org/abs/1802.07228)
+
+### Application
+
+- [] **CycleGAN** : 
+- [] **Pix2Pix** : 
+- 
+
+### Resources
+
+- https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
 
